@@ -13,4 +13,11 @@
 
 .screen-header__icons span {
   margin-left: 25px;
+  position: relative;
+}
+
+.screen-header__dot-find {
+  display: flex;
+  left: 70px;
+  bottom: 22px;
 }
