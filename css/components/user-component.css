@@ -53,3 +53,13 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__myphone {
+  display: flex;
+}
+
+.user-component__myphone i {
+  margin-top: 9px;
+  margin-left: 5px;
+  color: tomato;
+}
