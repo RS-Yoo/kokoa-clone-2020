@@ -1,5 +1,5 @@
 #chat-screen {
-  background-color: #abc1d1;
+  background-color: #aa9d93;
   height: 500vh;
 }
 
@@ -9,7 +9,7 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
-  background-color: #abc1d1;
+  background-color: #aa9d93;
 }
 
 #chat-screen .status-bar {
@@ -42,7 +42,7 @@
 
 .chat__timestamp {
   color: white;
-  background-color: #92a4b2;
+  background-color: #7a716a;
   padding: 15px;
   border-radius: 25px;
   font-size: 14px;
